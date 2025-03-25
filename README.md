@@ -1,7 +1,7 @@
 <h1 align="left">hello⭐, i'm michelle (aka mish)</h1>
 <h3 align="left">an aspiring frontend developer & multimedia designer from singapore 🍵</h3>
 
-![807b5c4b02e765bb4930b7c66662ef4b](https://github.com/user-attachments/assets/568e403a-c11c-43bf-9124-283e64fae89f)
+![39b289eca8b58a99b29423a4078504fe](https://github.com/user-attachments/assets/2f74ab49-8f7c-4454-9ae3-817cfeefcccd)
 
 - 🌱 i’m currently learning: **Vue, Redux, Electron**
 
